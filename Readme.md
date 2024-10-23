@@ -4,7 +4,7 @@
 
 Kimi			https://kimi.moonshot.cn/
 
-GPT			https://chatgpt.com/
+GPT			  https://chatgpt.com/
 
 Claude		https://claude.ai/
 
